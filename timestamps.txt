@@ -1,0 +1,5 @@
+Start: 42.62, End: 48.62
+Start: 422.94, End: 430.18
+Start: 468.22, End: 474.58
+Start: 305.22, End: 311.30
+Start: 212.02, End: 221.22

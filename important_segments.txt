@@ -1,0 +1,290 @@
+Text:  Hello everyone, welcome to Home Cooking with me, Hema Subramanian.
+Start Time: 0s
+End Time: 12.5s
+Importance Score: 10
+========================================
+Text:  Today I am going to share a wonderful recipe for all the egg lovers.
+Start Time: 11.5s
+End Time: 17.5s
+Importance Score: 14
+========================================
+Text:  This is a different take on the usual egg scrambled that we make at home.
+Start Time: 16.5s
+End Time: 20.5s
+Importance Score: 15
+========================================
+Text:  it with you guys, so let's get started and check it out.
+Start Time: 25.5s
+End Time: 28.5s
+Importance Score: 12
+========================================
+Text:  For this recipe I have taken 8 fresh eggs which is crack open all the eggs into a bowl.
+Start Time: 27.5s
+End Time: 34.5s
+Importance Score: 19
+========================================
+Text:  I am just going to season the eggs.
+Start Time: 33.5s
+End Time: 36.5s
+Importance Score: 8
+========================================
+Text:  First I am adding 1 teaspoon of salt.
+Start Time: 35.5s
+End Time: 38.5s
+Importance Score: 8
+========================================
+Text:  Next add 1 teaspoon of pepper.
+Start Time: 37.5s
+End Time: 40.5s
+Importance Score: 6
+========================================
+Text:  For this take a nice white pan.
+Start Time: 54.5s
+End Time: 57.5s
+Importance Score: 7
+========================================
+Text:  I am adding 1 teaspoon of oil.
+Start Time: 56.5s
+End Time: 59.5s
+Importance Score: 7
+========================================
+Text:  Spread the oil and butter evenly onto the pan.
+Start Time: 60.5s
+End Time: 65.5s
+Importance Score: 9
+========================================
+Text:  Keeping the flame on low, pour the egg mixture into the pan.
+Start Time: 66.5s
+End Time: 73.5s
+Importance Score: 12
+========================================
+Text:  Increase the flame to a medium and start making the scrambled.
+Start Time: 72.5s
+End Time: 77.5s
+Importance Score: 11
+========================================
+Text:  Once this is done, once you have caught this beautiful scrambled.
+Start Time: 92.5s
+End Time: 97.5s
+Importance Score: 11
+========================================
+Text:  Turn off the stove and transfer this to another plate.
+Start Time: 96.5s
+End Time: 99.5s
+Importance Score: 10
+========================================
+Text:  Next we are going to make the garlic butter sauce for the scrambled egg.
+Start Time: 98.5s
+End Time: 103.5s
+Importance Score: 14
+========================================
+Text:  It should be rich and flavourful.
+Start Time: 102.5s
+End Time: 107.5s
+Importance Score: 6
+========================================
+Text:  Just adding a couple of cubes of butter here.
+Start Time: 106.5s
+End Time: 111.5s
+Importance Score: 9
+========================================
+Text:  Make sure the garlic chopped very well.
+Start Time: 116.5s
+End Time: 121.5s
+Importance Score: 7
+========================================
+Text:  I am adding 1 large pot of garlic cloves.
+Start Time: 120.5s
+End Time: 125.5s
+Importance Score: 9
+========================================
+Text:  Make sure the garlic chopped very well inscriptionally.
+Start Time: 124.5s
+End Time: 127.5s
+Importance Score: 8
+========================================
+Text:  Pepper, half teaspoon.
+Start Time: 138.5s
+End Time: 141.5s
+Importance Score: 3
+========================================
+Text:  Chili flakes, 1 teaspoon.
+Start Time: 140.5s
+End Time: 143.5s
+Importance Score: 4
+========================================
+Text:  Just give it all a quick mix.
+Start Time: 142.5s
+End Time: 147.5s
+Importance Score: 7
+========================================
+Text:  To this I am going to add 1 teaspoon of cornflour.
+Start Time: 146.5s
+End Time: 151.5s
+Importance Score: 11
+========================================
+Text:  So we want that creamy sauce.
+Start Time: 150.5s
+End Time: 153.5s
+Importance Score: 6
+========================================
+Text:  Next I am adding 1 cup of boiled and cooled milk.
+Start Time: 156.5s
+End Time: 161.5s
+Importance Score: 11
+========================================
+Text:  Maintain the flame on a medium low.
+Start Time: 162.5s
+End Time: 167.5s
+Importance Score: 7
+========================================
+Text:  So you can see the sauce is gradually thickening up.
+Start Time: 168.5s
+End Time: 171.5s
+Importance Score: 10
+========================================
+Text:  I have just kept the flame on medium low.
+Start Time: 170.5s
+End Time: 175.5s
+Importance Score: 9
+========================================
+Text:  This seasoning is optional but this will definitely enhance the flavors.
+Start Time: 178.5s
+End Time: 183.5s
+Importance Score: 11
+========================================
+Text:  Next I am adding some finely chopped coriander leaves.
+Start Time: 182.5s
+End Time: 187.5s
+Importance Score: 9
+========================================
+Text:  Now that the garlic butter sauce is ready, I am just going to add the eggs crumble.
+Start Time: 188.5s
+End Time: 195.5s
+Importance Score: 17
+========================================
+Text:  Look at the butter garlic eggs.
+Start Time: 198.5s
+End Time: 201.5s
+Importance Score: 6
+========================================
+Text:  It is absorbed the sauce so beautifully.
+Start Time: 200.5s
+End Time: 205.5s
+Importance Score: 7
+========================================
+Text:  So butter garlic eggs are done.
+Start Time: 204.5s
+End Time: 209.5s
+Importance Score: 6
+========================================
+Text:  You can enjoy it as this or you can serve it with a nice spread by the side.
+Start Time: 208.5s
+End Time: 213.5s
+Importance Score: 18
+========================================
+Text:  It is time to take incredibly delicious butter garlic eggs.
+Start Time: 212.5s
+End Time: 217.5s
+Importance Score: 10
+========================================
+Text:  It is so moist and so soft.
+Start Time: 216.5s
+End Time: 221.5s
+Importance Score: 7
+========================================
+Text:  Look at that piece.
+Start Time: 220.5s
+End Time: 223.5s
+Importance Score: 4
+========================================
+Text:  It is so soft.
+Start Time: 228.5s
+End Time: 231.5s
+Importance Score: 4
+========================================
+Text:  It is so soft.
+Start Time: 230.5s
+End Time: 233.5s
+Importance Score: 4
+========================================
+Text:  It is so soft.
+Start Time: 232.5s
+End Time: 237.5s
+Importance Score: 4
+========================================
+Text:  It is so soft.
+Start Time: 236.5s
+End Time: 239.5s
+Importance Score: 4
+========================================
+Text:  Oh my god.
+Start Time: 240.5s
+End Time: 243.5s
+Importance Score: 3
+========================================
+Text:  It is extremely tasty.
+Start Time: 246.5s
+End Time: 249.5s
+Importance Score: 4
+========================================
+Text:  The egg is so soft.
+Start Time: 248.5s
+End Time: 251.5s
+Importance Score: 5
+========================================
+Text:  It is absorbed all the flavors of the garlic and the butter.
+Start Time: 250.5s
+End Time: 255.5s
+Importance Score: 12
+========================================
+Text:  It is incredibly yummy.
+Start Time: 254.5s
+End Time: 257.5s
+Importance Score: 4
+========================================
+Text:  I really enjoy the butter garlic eggs.
+Start Time: 258.5s
+End Time: 261.5s
+Importance Score: 7
+========================================
+Text:  It is a very nice recipe.
+Start Time: 260.5s
+End Time: 263.5s
+Importance Score: 6
+========================================
+Text:  And you can enjoy it as this or with a nice spread by the side.
+Start Time: 262.5s
+End Time: 267.5s
+Importance Score: 15
+========================================
+Text:  Do check them out.
+Start Time: 270.5s
+End Time: 273.5s
+Importance Score: 4
+========================================
+Text:  Do try this recipe.
+Start Time: 272.5s
+End Time: 275.5s
+Importance Score: 4
+========================================
+Text:  Enjoy and share it with your family and friends.
+Start Time: 274.5s
+End Time: 277.5s
+Importance Score: 9
+========================================
+Text:  For more exciting and wonderful recipes, subscribe to my YouTube channel.
+Start Time: 276.5s
+End Time: 281.5s
+Importance Score: 11
+========================================
+Text:  And click on the bell icon to get your notifications.
+Start Time: 280.5s
+End Time: 285.5s
+Importance Score: 10
+========================================
+Text:  You can now buy the second edition of our home cooking book at shop.homecookingshow.in.
+Start Time: 288.5s
+End Time: 295.5s
+Importance Score: 14
+========================================
